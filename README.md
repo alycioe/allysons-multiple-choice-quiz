@@ -6,8 +6,8 @@ This is an incomplete website that is a work in progress. Its goal is to functio
 
 # Visuals
 
-c:\Users\Ally\Pictures\Screenshots\Screenshot 2023-07-26 180546.png
-c:\Users\Ally\Pictures\Screenshots\Screenshot 2023-07-26 180606.png
+![Alt text](<Screenshot 2023-07-26 180546.png>)
+![Alt text](<Screenshot 2023-07-26 180606.png>)
 
 # Usage
 
