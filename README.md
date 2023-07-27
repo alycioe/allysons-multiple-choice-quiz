@@ -1,5 +1,7 @@
 # Allyson's Multiple Choice Quiz
 
+## WORK IN PROGRESS : This will be further edited for resubmission when it is fully functional, formatted better, and actually works.
+
 # Description
 
 This is an incomplete website that is a work in progress. Its goal is to function as a multiple choice quiz study guide with a timer, score, and high score tracker. 
@@ -18,3 +20,4 @@ Upon clicking the start button, the timer starts (although incorrectly) and the 
 MIT
 
 # Live Site
+https://alycioe.github.io/allysons-multiple-choice-quiz/
